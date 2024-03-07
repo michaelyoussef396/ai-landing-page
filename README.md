@@ -25,7 +25,7 @@ pricing section
 section layout presenting the applications road map with gradient grid lines and high quality image snad geometry lines on both sides
 
 simples footer where we connect to the website social media page
-
+bento box design inside
 mobile responsive
 
 langaues
