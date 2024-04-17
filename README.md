@@ -1,36 +1,25 @@
-# React + Vite
+Key Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Reactive Hero Section: Impress users with a hero section featuring various shapes that dynamically respond to cursor movement.
+Responsive Navbar: Enhance user experience with a colorful button that transforms into a user-friendly animated hamburger menu on smaller screens.
+Service Section: Showcase your services with visually appealing cards that have:
+Gradient borders
+Unique curved rectangle shapes
+Background images revealed on hover
+Pattern Section: Present important elements in a clear and captivating circular layout.
+Fresh Bento Box Layout: Utilize the modern web development approach of Bento Box design for a visually organized and adaptable structure.
+Pricing Section: Clearly display pricing plans or features for your AI app.
+Roadmap Section: Engage users by visually representing your application's roadmap with:
+Gradient grid lines
+High-quality image
+Snazzy geometric lines on both sides
+Minimalist Footer: Connect with users by providing links to your social media pages.
+Bento Box Footer Design: Maintain visual consistency with a footer utilizing the Bento Box design approach.
+Mobile Responsive: Ensure flawless adaptation to various screen sizes, providing an optimal experience on all devices.
+Tech Stack
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-modern ai app
-
-reactive hero section with different shapes reacting to your cursor
-
-navbar has colorful button that transforms into aimated hamburger menu on smaller screens
-
-service section features gradient border on the cards and unique curved rectangle shapes
-each of the cards reveals a background image
-
-patern that showcases the most important elements in a circular layout
-
-fresh modern web developement layout called bento box
-
-pricing section
-
-section layout presenting the applications road map with gradient grid lines and high quality image snad geometry lines on both sides
-
-simples footer where we connect to the website social media page
-bento box design inside
-mobile responsive
-
-langaues
--javascript
--react
-
-- vite
-  -tailwind css
+JavaScript: The core programming language for front-end development.
+React.js: A popular JavaScript library for building user interfaces with declarative components.
+Vite: A blazing-fast build tool that offers a streamlined development experience with features like HMR and efficient bundling.
+Tailwind CSS: A utility-first CSS framework that streamlines the styling process with pre-built classes.
+ESLint (Optional): A linter for enforcing code quality and consistency.
